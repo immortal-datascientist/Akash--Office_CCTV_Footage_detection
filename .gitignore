@@ -1,4 +1,9 @@
 \models\__pycache__\
 __pycache__\    
 data\
-    *.yaml          
+    *.yaml     
+/sample_videos\
+    *.mp4
+yolov8m.pt
+yolov8n.pt
+yolo11m.pt
