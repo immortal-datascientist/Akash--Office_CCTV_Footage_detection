@@ -1,0 +1,18 @@
+opencv-python 
+
+
+ultralytics>=8.0.20 # Ensure you have a recent version for best performance
+
+pytesseract>=0.3.10 # Recent version for better OCR results
+
+Pillow>=9.5.0
+
+numpy>=1.23.0
+
+pandas>=2.0.0
+
+
+scikit-learn>=1.2.0 
+
+
+Wand
